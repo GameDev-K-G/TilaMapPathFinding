@@ -43,7 +43,7 @@
 
 * קישור למשחק ב  :
 
- [itch.io :arrow_forward:](https://gamedevk-g.itch.io/tilemapgame)
+ [itch.io:arrow_forward:](https://gamedevk-g.itch.io/tilemapgame)
  
  
 ## תהנו :smiley:
