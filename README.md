@@ -40,5 +40,10 @@
 <img width="459" alt="Screen Shot 2023-05-09 at 16 30 41" src="https://github.com/GameDev-K-G/TilaMapPathFinding/assets/73976733/f8728968-d52e-464e-86f6-0c96b76acfe0">
  
  
+
+* קישור למשחק ב  :
+[itch.io](https://gamedevk-g.itch.io/tilemapgame)
+ 
+ 
 ## תהנו :smiley:
 </div>
