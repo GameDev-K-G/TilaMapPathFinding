@@ -6,7 +6,7 @@
 # עבודת הבית :
 
  
- # TilaMapPathFinding
+ # עבודת הבית:
  
 בעבודת הבית התבקשנו לבצע מספר שינויים בקוד של המרצה. 
  
@@ -32,11 +32,13 @@
 <img width="455" alt="Screen Shot 2023-05-09 at 16 26 50" src="https://github.com/GameDev-K-G/TilaMapPathFinding/assets/73976733/76620a3c-b456-41f7-801f-48de5ad5787d">
  
  
-# לפני לקחית הסירה ואחרי לקחית הסירה :
+# לפני לקחית הסירה ואחרי לקיחת הסירה :
     
 
  <img width="464" alt="Screen Shot 2023-05-09 at 16 29 59" src="https://github.com/GameDev-K-G/TilaMapPathFinding/assets/73976733/5b237173-20d2-4125-9f78-082ae4a03174">
  
 <img width="459" alt="Screen Shot 2023-05-09 at 16 30 41" src="https://github.com/GameDev-K-G/TilaMapPathFinding/assets/73976733/f8728968-d52e-464e-86f6-0c96b76acfe0">
+ 
+ 
 ## תהנו :smiley:
 </div>
